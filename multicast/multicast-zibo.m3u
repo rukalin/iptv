@@ -85,11 +85,11 @@ http://10.0.0.1:5140/rtp/239.253.252.166:8000?fcc=124.132.240.66:15970
 http://10.0.0.1:5140/rtp/239.253.252.67:8000?fcc=124.132.240.66:15970
 #EXTINF:-1 tvg-name="淄博文旅" group-title="淄博频道" tvg-logo="" , 淄博文旅
 http://10.0.0.1:5140/rtp/239.253.252.254:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="淄博2" group-title="淄博频道" tvg-logo="" , 淄博2
+#EXTINF:-1 tvg-name="淄博新闻综合" group-title="淄博频道" tvg-logo="" , 淄博新闻综合
 http://10.0.0.1:5140/rtp/239.253.252.253:8000?fcc=27.195.129.43:8027
 #EXTINF:-1 tvg-name="淄博民生" group-title="淄博频道" tvg-logo="" , 淄博民生
 http://10.0.0.1:5140/rtp/239.253.252.252:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="淄博1" group-title="淄博频道" tvg-logo="" , 淄博1
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
 http://10.0.0.1:5140/rtp/239.253.252.251:8000?fcc=27.195.129.43:8027
 #EXTINF:-1 tvg-name="淄博影视" group-title="淄博频道" tvg-logo="" , 淄博影视
 http://10.0.0.1:5140/rtp/239.253.252.241:8000?fcc=27.195.129.43:8027
