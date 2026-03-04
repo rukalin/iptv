@@ -91,23 +91,23 @@ http://10.0.0.1:5140/rtp/239.253.252.253:8000?fcc=27.195.129.43:8027
 http://10.0.0.1:5140/rtp/239.253.252.252:8000?fcc=27.195.129.43:8027
 #EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
 http://10.0.0.1:5140/rtp/239.253.252.251:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店2
 http://10.0.0.1:5140/rtp/239.253.252.250:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店3
 http://10.0.0.1:5140/rtp/239.253.252.249:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店4
 http://10.0.0.1:5140/rtp/239.253.252.248:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店5
 http://10.0.0.1:5140/rtp/239.253.252.247:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店6
 http://10.0.0.1:5140/rtp/239.253.252.246:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店7
 http://10.0.0.1:5140/rtp/239.253.252.245:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店8
 http://10.0.0.1:5140/rtp/239.253.252.244:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店9
 http://10.0.0.1:5140/rtp/239.253.252.243:8000?fcc=27.195.129.43:8027
-#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店
+#EXTINF:-1 tvg-name="张店" group-title="淄博频道" tvg-logo="" , 张店10
 http://10.0.0.1:5140/rtp/239.253.252.242:8000?fcc=27.195.129.43:8027
 #EXTINF:-1 tvg-name="淄博影视" group-title="淄博频道" tvg-logo="" , 淄博影视
 http://10.0.0.1:5140/rtp/239.253.252.241:8000?fcc=27.195.129.43:8027
